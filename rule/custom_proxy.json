@@ -1,0 +1,15 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "freemdict"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "icekylin.online"
+      ]
+    }
+  ],
+  "version": 1
+}

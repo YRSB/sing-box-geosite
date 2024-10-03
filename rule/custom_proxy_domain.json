@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "services.googleapis.cn",
+        "south-plus.net",
+        "xn--ngstr-lra8j.com"
+      ]
+    }
+  ],
+  "version": 1
+}

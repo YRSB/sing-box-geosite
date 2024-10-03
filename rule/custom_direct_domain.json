@@ -1,0 +1,23 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "ero.plumz.me",
+        "m.miaola.work"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "acaisbest.com",
+        "cloudapp.azure.com",
+        "cloudapp.net",
+        "inari.site",
+        "kfpromax.com",
+        "mistakey.top",
+        "msftconnecttest.com",
+        "socpk.com"
+      ]
+    }
+  ],
+  "version": 1
+}
