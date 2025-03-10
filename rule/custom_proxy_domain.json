@@ -2,6 +2,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "2dfan.com",
         "services.googleapis.cn",
         "south-plus.net",
         "xn--ngstr-lra8j.com"
