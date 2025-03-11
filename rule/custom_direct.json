@@ -1,4 +1,28 @@
 {
-  "rules": [],
+  "rules": [
+    {
+      "domain": [
+        "asmrconnecting.xyz",
+        "dcg.microsoft.com",
+        "ero.plumz.me"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "hpoi"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "cloudapp.azure.com",
+        "cloudapp.net",
+        "inari.site",
+        "kfpromax.com",
+        "mistakey.top",
+        "momozhen.com",
+        "msftconnecttest.com"
+      ]
+    }
+  ],
   "version": 1
 }

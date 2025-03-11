@@ -2,12 +2,19 @@
   "rules": [
     {
       "domain_keyword": [
+        "2dfan",
         "freemdict"
       ]
     },
     {
       "domain_suffix": [
-        "icekylin.online"
+        "erogame.space",
+        "exhobby.net",
+        "icekylin.online",
+        "miaola.work",
+        "services.googleapis.cn",
+        "south-plus.net",
+        "xn--ngstr-lra8j.com"
       ]
     }
   ],
