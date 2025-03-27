@@ -1,6 +1,11 @@
 {
   "rules": [
     {
+      "domain": [
+        "vdownload.hembed.com"
+      ]
+    },
+    {
       "domain_keyword": [
         "2dfan",
         "freemdict"
