@@ -2,6 +2,7 @@
   "rules": [
     {
       "domain": [
+        "res.e39x.com",
         "vdownload.hembed.com"
       ]
     },
