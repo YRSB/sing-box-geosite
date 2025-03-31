@@ -1,6 +1,11 @@
 {
   "rules": [
     {
+      "domain": [
+        "blhxstatic.yo-star.com"
+      ]
+    },
+    {
       "domain_suffix": [
         "fig-memo-r18.site",
         "melonbooks.co.jp",
