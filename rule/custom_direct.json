@@ -5,8 +5,7 @@
         "asmrconnecting.xyz",
         "dcg.microsoft.com",
         "ero.plumz.me",
-        "lmgx-my.sharepoint.com",
-        "recordtx.shangzhibo.tv"
+        "lmgx-my.sharepoint.com"
       ]
     },
     {
@@ -19,11 +18,13 @@
       "domain_suffix": [
         "cloudapp.azure.com",
         "cloudapp.net",
+        "grtsports.com",
         "inari.site",
         "kfpromax.com",
         "mistakey.top",
         "msftconnecttest.com",
-        "msftncsi.com"
+        "msftncsi.com",
+        "shangzhibo.tv"
       ]
     }
   ],
